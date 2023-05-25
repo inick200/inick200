@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhishek G @inick200
-- 👀 I’m interested in Software engineering, DSA and competitive programming.
+- 👀 I’m interested in Software product engineering, DSA and competitive programming.
 - 🌱 I’m currently working on tech stack like Java8, Golang, Python, Spring Boot, Microservices, Kafka, Docker, AWS/GCP, CLoudSQL
 
 <!---
