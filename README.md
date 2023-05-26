@@ -22,7 +22,7 @@ Open to collaborate on interesting and innovative projects.
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,java,py,go,js,typescript,cpp,bash,mysql" />
+        <img src="https://skillicons.dev/icons?i=,java,py,go,js,typescript,cpp,bash,mysql" />
   </a>
 </p>
 
@@ -36,6 +36,12 @@ Open to collaborate on interesting and innovative projects.
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/inick200)
 
 ### Technologies & Frameworks
+<p>
+  <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=,spring,kafka,maven,express,django,angular,materialui,nginx,nodejs,react,docker,git" />
+  </a>
+</p>
+
 [![Spring Boot](https://img.shields.io/badge/springboot-black?style=for-the-badge&logo=springboot)](https://github.com/inick200)
 [![Angular](https://img.shields.io/badge/angular-black?style=for-the-badge&logo=angular)](https://github.com/inick200)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/inick200)
@@ -44,6 +50,11 @@ Open to collaborate on interesting and innovative projects.
 [![Kafka](https://img.shields.io/badge/kafka-black?style=for-the-badge&logo=apachekafka)](https://github.com/inick200)
 [![Microservices](https://img.shields.io/badge/microservices-black?style=for-the-badge&logo=microservices)](https://github.com/inick200)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/inick200)
+
+### Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=,aws,gcp"/>
+</p>
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/inick200)
