@@ -11,7 +11,7 @@ Open to collaborate on interesting and innovative projects.
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="https://stackoverflow.com/users/19133289/abhishek-keya">
-        <img src="https://img.shields.io/badge/StackOverfow-blue?style=flat-square&logo=stackoverflow" alt="Kaggle">
+        <img src="https://img.shields.io/badge/StackOverfow-blue?style=flat-square&logo=stackoverflow" alt="Stack Overflow">
     </a>
     <a href="https://leetcode.com/Apakg/">
         <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
@@ -19,7 +19,6 @@ Open to collaborate on interesting and innovative projects.
 </p>
 
 ### Languages
-
 <p>
   <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=,java,py,go,js,typescript,cpp,bash,mysql" />
@@ -53,7 +52,9 @@ Open to collaborate on interesting and innovative projects.
 
 ### Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=,aws,gcp"/>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=,aws,gcp"/>
+    </a>
 </p>
 
 ### OS
