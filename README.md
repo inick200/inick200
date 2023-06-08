@@ -2,7 +2,7 @@
 <p align="center">
 <i>
 I'm Abhishek K G. @inick200<br>
-I am a Senior Software Engineer / Team Lead having worthwhile experience in Software Product Engineering, Building Large Scale Enterprise Software, Agile, Cloud and Distributed computing. Skilled in Java8, Spring Boot, Golang, Python, Micro-services, Redis, Angular, ReactJS, CloudSQL, AWS / Google Cloud, BigQuery, GAE, GKE, Docker. Experienced in software product engineering, cloud platforms, SAAS, Linux, Bash, EDA, ML. 
+I am a Senior Software Engineer / Team Lead having worthwhile experience in Software Product Engineering, Building Large Scale Enterprise Software, Agile, Cloud platforms and Distributed computing. Skilled in Java8, Spring Boot, Golang, Python, Micro-services, Redis, Angular, ReactJS, CloudSQL, AWS / Google Cloud, BigQuery, GAE, GKE, Docker, SAAS, Linux, Bash, EDA, ML. 
 Keen interest in DSA, problem solving and and competitive programming.
 Open to collaborate on interesting and innovative projects.
 </i>
@@ -26,8 +26,8 @@ Open to collaborate on interesting and innovative projects.
 </p>
 
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/inick200)
-[![Golang](https://img.shields.io/badge/golang-black?style=for-the-badge&logo=go)](https://github.com/inick200)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/inick200)
+[![Golang](https://img.shields.io/badge/golang-black?style=for-the-badge&logo=go)](https://github.com/inick200)
 [![Javascript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/inick200)
 [![Typescript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/inick200)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/inick200)
@@ -37,7 +37,7 @@ Open to collaborate on interesting and innovative projects.
 ### Technologies & Frameworks
 <p>
   <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=,spring,kafka,maven,express,django,angular,materialui,nginx,nodejs,react,docker,git" />
+        <img src="https://skillicons.dev/icons?i=,spring,angular,react,nodejs,django,kafka,maven,express,materialui,nginx,docker,git" />
   </a>
 </p>
 
