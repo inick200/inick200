@@ -78,8 +78,15 @@ Open to collaborate on interesting and innovative projects.
   <a href="https://github.com/inick200">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=inick200&theme=transparent" />
   </a>
-  <a href="https://github.com/inick200">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inick200&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent"/>
-  </a>
 </p>
 </details>
+
+
+<a href="https://github.com/inick200">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inick200&layout=compact" />
+</a>
+
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
+</p>
+
