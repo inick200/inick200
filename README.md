@@ -1,4 +1,8 @@
-<h1 align="center">Hello! Welcome to my Github 👋</h1>
+![](https://komarev.com/ghpvc/?username=inick200)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Nice+to+see+you+here!;I'm+a+Software+Engineer;Loves+Building+Great+Tech;+Bringing+Changes+To+Lives;I+like+Traveling+and+Music;)](https://git.io/typing-svg)
+
+<h1 align="center">Welcome to my Github 👋</h1>
 <p align="center">
 <i>
 I'm Abhishek K G. @inick200<br>
@@ -79,9 +83,3 @@ Open to collaborate on interesting and innovative projects.
   </a>
 </p>
 </details>
-
-<p align="center">
-  <a href="https://github.com/inick200">
-    <img src="https://komarev.com/ghpvc/?username=inick200&color=blue&style=flat)" />
-  </a>
-</p>
