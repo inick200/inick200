@@ -5,7 +5,7 @@
 <h1 align="center">Welcome to my Github 👋</h1>
 <p align="center">
 <i>
-I'm Abhishek K G. @inick200<br>
+I'm Abhishek K Ghosh. @inick200<br>
 I am a Senior Software Engineer / Team Lead having worthwhile experience in Software Product Engineering, Building Large Scale Enterprise Software, Agile, Cloud platforms and Distributed computing. Skilled in Java8, Spring Boot, Golang, Python, Micro-services, Redis, Angular11, ReactJS, CloudSQL, AWS / Google Cloud, BigQuery, GAE, GKE, Docker, SAAS, Linux, Bash, EDA, ML. 
 Keen interest in DSA, problem solving and and competitive programming.
 Open to collaborate on interesting and innovative projects.
