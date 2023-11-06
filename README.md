@@ -5,6 +5,8 @@
 <h1 align="center">Welcome to my Github 👋</h1>
 <p align="center">
 <i>
+<a target="_blank" href="https://www.amazon.in/gp/search?ie=UTF8&tag=inickstr-21&linkCode=ur2&linkId=9b61d70e8ea0d3d9022115340232e3ea&camp=3638&creative=24630&index=aps&keywords=Diwali lights, rice lights, star lights"> Best Diwali lights - Check out fast! </a>
+<br/><br/>
 I'm Abhishek K Ghosh. @inick200<br>
 I am a Senior Software Engineer / Team Lead having worthwhile experience in Software Product Engineering, Building Large Scale Enterprise Software, Cloud platforms and Distributed computing. Skilled in Java, Spring Boot, Golang, Python, Micro-services, Redis, Angular11, ReactJS, CloudSQL, AWS / Google Cloud, BigQuery, GAE, GKE, Docker, SAAS, Linux, Bash, EDA, ML. 
 Keen interest in DSA, problem solving and and competitive programming.
@@ -80,7 +82,6 @@ Open to collaborate on interesting and innovative projects
   </a>
 </p>
 </details>
-
 
 <a href="https://github.com/inick200">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inick200&layout=compact" />
