@@ -5,7 +5,6 @@
 <h1 align="center">Welcome to my Github 👋</h1>
 <p align="center">
 <i>
-<a target="_blank" href="https://www.amazon.in/Desidiya-Flashing-Decoration-Christmas-Led-Star/dp/B082BHK4D7/?tag=inickstr-21&_encoding=UTF8&tag=inickstr-21&linkCode=ur2&linkId=dd4a15e0bcd1c977f8e45b81373d02da&camp=3638">Best Diwali Star Lights - Check out fast! </a>
     
 <br/><br/>
 I'm Abhishek K Ghosh. @inick200<br>
