@@ -8,7 +8,7 @@
     
 <br/><br/>
 I'm Abhishek K Ghosh. @inick200<br>
-I am a Senior Software Engineer / Team Lead having worthwhile experience in Software Product Engineering, Building Large Scale Enterprise Software, Cloud platforms and Distributed computing. Skilled in Java, Spring Boot, Golang, Python, Micro-services, Redis, Angular11, ReactJS, CloudSQL, AWS / Google Cloud, BigQuery, GAE, GKE, Docker, SAAS, Linux, Bash, EDA, ML. 
+I am a Senior Software Engineer having worthwhile experience in Software Product Engineering, Building Large Scale Enterprise Software, Cloud platforms and Distributed computing. Skilled in Java, Spring Boot, Golang, Python, Micro-services, Redis, Angular, ReactJS, CloudSQL, AWS / Google Cloud, BigQuery, GAE, GKE, Docker, SAAS, Linux, Bash, EDA, ML. 
 Keen interest in DSA, problem solving and and competitive programming.
 Open to collaborate on interesting and innovative projects
 </i>
