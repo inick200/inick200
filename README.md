@@ -19,9 +19,6 @@ Open to collaborate on interesting and innovative projects
     <a href="https://stackoverflow.com/users/19133289/abhishek-keya">
         <img src="https://img.shields.io/badge/StackOverfow-blue?style=flat-square&logo=stackoverflow" alt="Stack Overflow">
     </a>
-    <a href="https://leetcode.com/Apakg/">
-        <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
-    </a>
 </p>
 
 ### Languages
