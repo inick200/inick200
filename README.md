@@ -13,9 +13,6 @@ Keen interest in DSA, problem solving and and competitive programming.
 Open to collaborate on interesting and innovative projects
 </i>
 <br><br/>
-    <a href="https://www.linkedin.com/in/abhishek-g-181363196">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
     <a href="https://stackoverflow.com/users/19133289/abhishek-keya">
         <img src="https://img.shields.io/badge/StackOverfow-blue?style=flat-square&logo=stackoverflow" alt="Stack Overflow">
     </a>
