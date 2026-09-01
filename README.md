@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=inick200)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Nice+to+see+you+here!;I'm+a+Software+Engineer;Loves+Building+Great+Tech;+Bringing+Changes+To+Lives;I+like+Traveling+and+Music;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Nice+to+see+you+here!;I'm+a+Software+Engineer;Loves+Building+Great+Tech;+Bringing+Changes+To+Lives;I+like+Traveling+and+Music;Builing+AI+For+Safe+World;)](https://git.io/typing-svg)
 
 <h1 align="center">Welcome to my Github 👋</h1>
 <p align="center">
@@ -12,11 +12,14 @@ Im a Lead Software Engineer at <b>Microsoft</b>, Building Fabric's Enterprise AI
 I enjoy problem solving and and competitive coding. :) Also, a DSA mentor & author.
 Open to collaborate on innovative Applied AI projects
 </i>
-<br><br/>
+<br/>
+    <p>
     <a href="https://linktr.ee/abhishek_keya">
         <img src="https://img.shields.io/badge/LinkTree-43e660?style=plastic&logo=linktree&logoColor=white" alt="Linktree profile">
     </a>
+    </p>
 </p>
+
 
 ### Languages
 <p>
@@ -66,7 +69,6 @@ Open to collaborate on innovative Applied AI projects
 [![MacOS](https://img.shields.io/badge/macos-black?style=for-the-badge&logo=macos)](https://github.com/inick200)
 [![ChromeOS](https://img.shields.io/badge/chromeos-black?style=for-the-badge&logo=chromeos)](https://github.com/inick200)
 
-<details>
 <p align="center">
   <a href="https://github.com/inick200">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inick200&theme=transparent" />
@@ -78,7 +80,6 @@ Open to collaborate on innovative Applied AI projects
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=inick200&theme=transparent" />
   </a>
 </p>
-</details>
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
