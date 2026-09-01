@@ -29,7 +29,7 @@ Open to collaborate on innovative Applied AI projects
 </p>
 
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/inick200)
-[![Tensorflow](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/inick200)
+[![Tensorflow](https://img.shields.io/badge/tensorflow-black?style=for-the-badge&logo=tensorflow)](https://github.com/inick200)
 [![Rust](https://img.shields.io/badge/rust-red?style=for-the-badge&logo=rust)](https://github.com/inick200)
 [![PyTorch](https://img.shields.io/badge/pytorch-black?style=for-the-badge&logo=pytorch)](https://github.com/inick200)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/inick200)
