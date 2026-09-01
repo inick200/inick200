@@ -7,14 +7,14 @@
 <i>
     
 <br/><br/>
-I'm Abhishek KG. @inick200<br>
-I am a Senior Software Engineer having worthwhile experience in Software Product Engineering, Building Large Scale Enterprise Software, Cloud platforms and Distributed computing. Skilled in Java, Spring Boot, Golang, Python, Micro-services, Redis, Angular, ReactJS, CloudSQL, AWS / Google Cloud, BigQuery, GAE, GKE, Docker, SAAS, Linux, Bash, EDA, ML. 
-Keen interest in DSA, problem solving and and competitive programming.
-Open to collaborate on interesting and innovative projects
+Hello, I'm <b>Abhishek Keyag</b><br>
+Im a Lead Software Engineer at <b>Microsoft</b>, Building Fabric's Enterprise AI Agentic platform and Large Scale customer facing products & AI Infra. I specialise in Fullstack, Applied Machine Learning and at Java, Go, Rust, Spring Boot, Python, Micro-services, Angular, ReactJS, CloudSQL, AWS / Google Cloud, BigQuery, Kubernetes (AKS, GKE, OMK), Tensorflow/Keras, PyTorch, CUDA, NCCL, Linux, EDA and Applied ML. 
+I enjoy problem solving and and competitive coding. :) Also, a DSA mentor & author.
+Open to collaborate on innovative Applied AI projects
 </i>
 <br><br/>
-    <a href="https://stackoverflow.com/users/19133289/abhishek-keya">
-        <img src="https://img.shields.io/badge/StackOverfow-blue?style=flat-square&logo=stackoverflow" alt="Stack Overflow">
+    <a href="https://linktr.ee/abhishek_keya">
+        <img src="https://img.shields.io/badge/LinkTree-43e660?style=plastic&logo=linktree&logoColor=white" alt="Linktree profile">
     </a>
 </p>
 
@@ -26,6 +26,9 @@ Open to collaborate on interesting and innovative projects
 </p>
 
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/inick200)
+[![Tensorflow](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/inick200)
+[![Rust](https://img.shields.io/badge/rust-red?style=for-the-badge&logo=rust)](https://github.com/inick200)
+[![PyTorch](https://img.shields.io/badge/pytorch-black?style=for-the-badge&logo=pytorch)](https://github.com/inick200)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/inick200)
 [![Golang](https://img.shields.io/badge/golang-black?style=for-the-badge&logo=go)](https://github.com/inick200)
 [![Javascript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/inick200)
@@ -53,7 +56,7 @@ Open to collaborate on interesting and innovative projects
 ### Cloud
 <p>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=,aws,gcp"/>
+        <img src="https://skillicons.dev/icons?i=,aws,gcp,azure"/>
     </a>
 </p>
 
@@ -76,10 +79,6 @@ Open to collaborate on interesting and innovative projects
   </a>
 </p>
 </details>
-
-<a href="https://github.com/inick200">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inick200&layout=compact" />
-</a>
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
