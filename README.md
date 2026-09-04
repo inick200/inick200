@@ -13,11 +13,6 @@ I enjoy problem solving and and competitive coding. :) Also, a DSA mentor & auth
 Open to collaborate on innovative Applied AI projects
 </i>
 <br/>
-    <p>
-    <a href="https://linktr.ee/abhishek_keya">
-        <img src="https://img.shields.io/badge/LinkTree-43e660?style=plastic&logo=linktree&logoColor=white" alt="Linktree profile">
-    </a>
-    </p>
 </p>
 
 
